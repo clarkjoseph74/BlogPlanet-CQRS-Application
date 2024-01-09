@@ -11,11 +11,11 @@ SQL Server for data persistence
 Potential for event sourcing and eventual consistency (if applicable)
 ## Technologies
 
-.NET Core 6
-C# 10
-MediatR
-SQL Server
-Entity Framework Core (for interacting with SQL Server)
+- .NET Core 6
+- C# 10
+- MediatR
+- SQL Server
+- Entity Framework Core (for interacting with SQL Server)
 ## Getting Started
 
 Prerequisites:
